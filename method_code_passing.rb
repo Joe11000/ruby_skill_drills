@@ -20,6 +20,8 @@ Benchmark.bm do |b|
 end
 
 
+
+
 # 3. Block
 module Example2
   def self.function
